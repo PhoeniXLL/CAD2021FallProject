@@ -1,0 +1,24 @@
+mvfs 0 0 0
+mev 0 0 3 0 0
+mev 0 1 4 1 0
+mev 0 2 4 3 0
+mev 0 3 3.5 3.5 0
+mev 0 4 4 4 0
+mev 0 5 4 6 0
+mev 0 6 3 7 0
+mev 0 7 0 7 0
+mef 0 8 0
+mev 1 0 1 1 0
+mev 1 9 3 1 0
+mev 1 10 3 3 0
+mev 1 11 1 3 0
+mef 1 12 9
+kemr 1 9
+mev 1 8 1 6 0
+mev 1 13 1 4 0
+mev 1 14 3 4 0
+mev 1 15 3 6 0
+mef 1 16 13
+kemr 1 14
+sweep 0 0 1
+over

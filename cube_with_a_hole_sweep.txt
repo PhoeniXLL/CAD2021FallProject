@@ -1,0 +1,13 @@
+mvfs 0 0 0
+mev 0 0 3 0 0
+mev 0 1 3 0 3
+mev 0 2 0 0 3
+mef 0 3 0
+mev 1 0 1 0 1
+mev 1 4 2 0 1
+mev 1 5 2 0 2
+mev 1 6 1 0 2
+mef 1 7 4
+kemr 1 4
+sweep 0 3 0
+over

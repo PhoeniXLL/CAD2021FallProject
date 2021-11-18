@@ -1,0 +1,29 @@
+mvfs 0 0 0
+mev 0 0 3 0 0
+mev 0 1 3 0 3
+mev 0 2 0 0 3
+mef 0 3 0
+mev 1 0 1 0 1
+mev 1 4 2 0 1
+mev 1 5 2 0 2
+mev 1 6 1 0 2
+mef 1 7 4
+kemr 1 4
+mev 1 0 0 3 0
+mev 1 1 3 3 0
+mev 1 2 3 3 3
+mev 1 3 0 3 3
+mev 3 4 1 3 1
+mev 3 5 2 3 1
+mev 3 6 2 3 2
+mev 3 7 1 3 2
+mef 1 9 8
+mef 1 10 9
+mef 1 11 10
+mef 1 8 11
+mef 3 12 13
+mef 3 13 14
+mef 3 14 15
+mef 3 15 12
+kfmrh 2 0
+over

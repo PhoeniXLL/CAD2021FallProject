@@ -1,0 +1,72 @@
+﻿  glad.c
+  shapes.cc
+  advancing_front.cc
+  cdt.cc
+D:\study\cad\BRep\include\poly2tri\sweep\sweep_context.h(161,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  sweep.cc
+D:\study\cad\BRep\include\poly2tri\sweep\sweep_context.h(161,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  sweep_context.cc
+D:\study\cad\BRep\include\poly2tri\sweep\sweep_context.h(161,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\include\poly2tri\sweep\sweep_context.cc(105,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\study\cad\BRep\include\poly2tri\sweep\sweep_context.h(161,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(117,75): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(121,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(122,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(170,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(171,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(210,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\study\cad\BRep\main.cpp(210,9): message : 请考虑在格式字符串中使用“%zu”
+D:\study\cad\BRep\main.cpp(218,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\study\cad\BRep\main.cpp(218,9): message : 请考虑在格式字符串中使用“%zu”
+D:\study\cad\BRep\main.cpp(219,42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(220,41): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\study\cad\BRep\main.cpp(221,50): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\study\cad\BRep\main.cpp(253,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\study\cad\BRep\main.cpp(253,9): message : 请考虑在格式字符串中使用“%zu”
+D:\study\cad\BRep\main.cpp(254,68): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\study\cad\BRep\main.cpp(284,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(285,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(531,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(536,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(537,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(538,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(539,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(540,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(541,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(599,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(602,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(603,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\study\cad\BRep\main.cpp(649,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(654,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(659,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(666,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(671,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(676,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(683,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(689,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(694,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(701,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(706,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\study\cad\BRep\main.cpp(716,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\study\cad\BRep\include\poly2tri\common\shapes.cc(239): warning C4715: “p2t::Triangle::PointCCW”: 不是所有的控件路径都返回值
+D:\study\cad\BRep\include\poly2tri\common\shapes.cc(226): warning C4715: “p2t::Triangle::PointCW”: 不是所有的控件路径都返回值
+D:\study\cad\BRep\include\poly2tri\common\shapes.cc(167): warning C4715: “p2t::Triangle::Index”: 不是所有的控件路径都返回值
+D:\study\cad\BRep\include\poly2tri\sweep\sweep.cc(772): warning C4715: “p2t::Sweep::NextFlipPoint”: 不是所有的控件路径都返回值
+  All 1232 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  BRep.vcxproj -> D:\study\cad\BRep\x64\Release\BRep.exe
